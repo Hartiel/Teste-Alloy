@@ -355,7 +355,6 @@ ul {
 
 .modal-task {
   z-index: 2;
-  opacity: 0;
   background-color: #000c;
   justify-content: center;
   align-items: flex-start;
@@ -363,7 +362,6 @@ ul {
   height: 100%;
   padding: 40px 20px;
   transition: all .2s;
-  display: none;
   position: fixed;
   inset: 0%;
   overflow: auto;
